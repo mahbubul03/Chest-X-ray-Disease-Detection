@@ -21,6 +21,7 @@ prediction.
 3. Run the app:
    ```
    streamlit run app.py
+   python -m streamlit run app.py
    ```
 
    Note: the file upload limit (for both X-ray images and model uploads) is
