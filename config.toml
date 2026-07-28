@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#0f6e5c"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#e6f4f0"
+textColor = "#1f2937"
+font = "sans serif"
+
+[server]
+# Max size (in MB) for any file uploaded through st.file_uploader —
+# applies to both the X-ray image uploader and the custom model uploader.
+# Default is 200; raised here to comfortably fit larger .keras/.h5 model files.
+maxUploadSize = 2000
