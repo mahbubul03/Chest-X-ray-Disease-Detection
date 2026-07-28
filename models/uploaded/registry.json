@@ -1,0 +1,22 @@
+{
+  "CNN_01": {
+    "path": "models\\uploaded\\CNN_01_eb018e92.h5",
+    "icon": "\ud83e\udde9",
+    "default_preprocessing": "rescale"
+  },
+  "CNN_2": {
+    "path": "models\\uploaded\\CNN_2_4bd4c9c0.keras",
+    "icon": "\ud83e\udde9",
+    "default_preprocessing": "rescale"
+  },
+  "ResNet50_01": {
+    "path": "models\\uploaded\\ResNet50_01_926315a7.keras",
+    "icon": "\ud83e\udde9",
+    "default_preprocessing": "rescale"
+  },
+  "ResNet50_2": {
+    "path": "models\\uploaded\\ResNet50_2_b779f949.keras",
+    "icon": "\ud83e\udde9",
+    "default_preprocessing": "rescale"
+  }
+}
